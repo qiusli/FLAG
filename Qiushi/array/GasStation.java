@@ -1,3 +1,5 @@
+package array;
+
 /**
  * Created by liqiushi on 7/5/14.
  * http://blog.csdn.net/kenden23/article/details/14106137
