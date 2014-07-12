@@ -1,5 +1,7 @@
 package linked_list;
 
+import linked_list.node.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,5 +1,7 @@
 package linked_list;
 
+import linked_list.node.ListNode;
+
 /**
  * Created by liqiushi on 7/9/14.
  */

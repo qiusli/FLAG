@@ -1,12 +1,12 @@
-package linked_list;
+package linked_list.node;
 
 /**
  * Created by liqiushi on 7/6/14.
  */
 public class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
+    public int val;
+    public ListNode next;
+    public ListNode(int x) {
         val = x;
         next = null;
     }
